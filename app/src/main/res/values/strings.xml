@@ -1,0 +1,8 @@
+<!-- File: strings.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AimShot</string>
+    <string name="verify_launch">VERIFY &amp; LAUNCH</string>
+    <string name="hint_license">Enter License Key (XXXX-XXXX-XXXX)</string>
+    <string name="secure_badge">SECURE ONLINE LAUNCHER</string>
+</resources>
